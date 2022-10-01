@@ -30,3 +30,5 @@ spec:
       destination:
         server: '{{server}}'
         namespace: '{{path.basename}}'
+      syncpolicy:
+        automated: {}
